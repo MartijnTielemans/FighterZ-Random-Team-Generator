@@ -10,5 +10,3 @@ Have fun playing!
 
 
 If you redistribute or modify this tool, please link back to this GitHub page and credit me, thank you.
-
-![Alt text]( FighterZ-Random-Team-Generator/Screeny1.PNG?raw=true "A screenshot")
