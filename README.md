@@ -1,4 +1,4 @@
-# FighterZ-Random-Team-Generator
+# Dragon Ball FighterZ Random Team Generator
 A random team generator for Dragon Ball FighterZ, 
 because I don't want to go to the character select screen every time I want to play randoms online. 
 
