@@ -10,3 +10,5 @@ Have fun playing!
 
 
 If you redistribute or modify this tool, please link back to this GitHub page and credit me, thank you.
+
+https://raw.githubusercontent.com/MartijnTielemans/FighterZ-Random-Team-Generator/main/Screeny1.PNG
